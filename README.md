@@ -1,5 +1,5 @@
-## Olá, muito prazer,meu nome é Antônio!
-Sou estudante de engenharia na Universidade de São Carlos e atualmente estou estudando desenvolvimento front-end e estou em busca de um estágio em front-end.
+## Olá, muito prazer, meu nome é Antônio!
+Sou estudante de engenharia na Escola de Engenharia de São Carlos (EESC - USP) e atualmente estou estudando desenvolvimento front-end e estou em busca de um estágio em front-end.
 Atualmente, estou estudando ReactJS, NodeJS e Typescript.
  <div>
   <a href="https://github.com/aq-simei">
