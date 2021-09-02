@@ -5,10 +5,10 @@ No momento, meu foco é aprimorar minhas habilidades em ReactJS e Typescript.
 #### Em busca de um estágio em desenvolvimento front-end.
  <div>
   <a href="https://github.com/aq-simei">
-   <style="display: flex" align="center">
+   <style="display: inline_block" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aq-simei&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aq-simei&layout=compact&langs_count=7&theme=ocean_dark"/>
-   <
+  
 </div>
  
  ##
@@ -16,7 +16,7 @@ No momento, meu foco é aprimorar minhas habilidades em ReactJS e Typescript.
  ### Linguagens e tecnologias:
  
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Antonio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Antonio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
