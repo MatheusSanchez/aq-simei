@@ -5,8 +5,8 @@ No momento, meu foco é aprimorar minhas habilidades em ReactJS e Typescript.
 #### Em busca de um estágio em desenvolvimento front-end.
  <div>
   <a href="https://github.com/aq-simei">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aq-simei&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aq-simei&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aq-simei&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aq-simei&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
  
  ##
