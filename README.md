@@ -1,12 +1,12 @@
 ## Olá, muito prazer, meu nome é Antônio!
-Sou estudante de engenharia na Escola de Engenharia de São Carlos (EESC - USP) e atualmente estou estudando desenvolvimento front-end. 
-Atualmente, estou estudando ReactJS, NodeJS e Typescript.
+Sou estudante de engenharia na Escola de Engenharia de São Carlos (EESC - USP) e atualmente estudo desenvolvimento front-end. 
+No momento, meu foco é aprimorar minhas habilidades em ReactJS e Typescript.
 
 #### Em busca de um estágio em desenvolvimento front-end.
  <div>
   <a href="https://github.com/aq-simei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aq-simei&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aq-simei&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aq-simei&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aq-simei&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
  
  ##
